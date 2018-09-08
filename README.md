@@ -6,7 +6,7 @@ Code for reproducing experiments in [Wasserstein Divergence for GANs](https://ar
 Our code is built upon [WGAN-GP](https://github.com/igul222/improved_wgan_training).
 
 ## Prerequisites
-For the running enviromnment please check https://github.com/igul222/improved_wgan_training
+For Tensorflow and its dependencies please check https://github.com/igul222/improved_wgan_training
 
 For the training data such as Cifar10, CelebA, LSUN etc download them on the official website accordingly
 
