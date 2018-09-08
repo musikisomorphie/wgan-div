@@ -22,7 +22,7 @@ import tflib.plot
 import fid
 import re
 
-DATA_DIR = 'path/to/file'
+DATA_DIR = 'path/to/data'
 DATASET = "celeba"  # celeba, cifar10, svhn, lsun
 if len(DATA_DIR) == 0:
     raise Exception('Please specify path to data directory in gan_64x64.py!')
